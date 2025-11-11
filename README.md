@@ -1,4 +1,4 @@
-# Fairness-in-Financial-Lending-Models
+# Fairness in Financial Lending Models
 
 This project addresses the critical need for fairness and transparency in financial lending decisions. Using Home Mortgage Disclosure Act (HMDA) data, we developed a comprehensive framework to:
 
